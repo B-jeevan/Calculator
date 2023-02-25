@@ -1,1 +1,1 @@
-# oasis-1-calculator
+# Calculator
